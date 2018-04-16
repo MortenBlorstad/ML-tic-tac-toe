@@ -1,6 +1,4 @@
 rm(list=ls(all=TRUE))
-library(corrplot)
-library(ggvis)
 library(keras)
 
 tic.tac.toe <- read.csv("C:/Users/mob/Desktop/tic-tac-toe.txt")
